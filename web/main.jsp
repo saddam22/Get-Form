@@ -7,7 +7,7 @@
     </head>
     <body>
         
-        <form action="get_form.jsp" method="post">
+        <form action="get_form.jsp" method="get">
             First Name : <input type="text" name="first_name">
             <br />
             Last Name : <input type="text" name="last_name"><br /><br />
